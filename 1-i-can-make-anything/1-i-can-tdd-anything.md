@@ -1,6 +1,6 @@
 # I can TDD anything
 
-###### Reflect: What does it mean to be able to TDD anything?
+##### Reflect: What does it mean to be able to TDD anything?
 
 - To understand and follow the Red - Green - Refactor cycle.
   - Red: write a failing test
@@ -12,7 +12,7 @@
 - To aim to test the behaviour of a class rather than the state of them.
 - To be wary of edge cases and writing tests for them too.
 
-###### Plan: List evidence you aim to collect that would together show you have credibly achieved this goal
+##### Plan: List evidence you aim to collect that would together show you have credibly achieved this goal
 
 - An example showing the use of dependency injection/ mocking/ doubling/ stubbing to show isolation of tests.
 - An example of test-driving a project without using a testing framework.
@@ -21,7 +21,7 @@
 
 **Q: Can you TDD confidently? YES **
 
-###### Reflect: How does each of the following examples of your best work show evidence of achieving this goal? (e.g. Diode projects, Github repos)
+##### Reflect: How does each of the following examples of your best work show evidence of achieving this goal? (e.g. Diode projects, Github repos)
 
 - [Bank Tech Test](https://github.com/riyadattani/bankTechTest/blob/master/spec/statementSpec.js )
   - Example of mocking out the account class which is needed to create a statement.
@@ -38,7 +38,7 @@
 - [RPS challenge](https://github.com/riyadattani/rps-challenge)
   - Test driven using a feature test to begin with and then smaller unit tests to pass the feature test.
 
-###### What feedback have you had?
+##### What feedback have you had?
 
 _Steven during a process workshop_, “You have a good TDD process. You started off with the easiest test and passed it in the most simplest way. Once you started developing the program, you changed your method appropriately. You followed the RED-GREEN-REFACTOR method very well.”
 
