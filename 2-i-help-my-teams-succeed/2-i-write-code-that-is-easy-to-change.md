@@ -19,7 +19,7 @@
 
 - Give two examples of code that you refactored so that it is easy to change
 
-**Q: Do you write code that is easy to change? YES **
+**Q: Do you write code that is easy to change? YES**
 
 ##### Reflect: How does each of the following examples of your best work show evidence of achieving this goal? (e.g. Diode projects, Github repos)
 

@@ -37,7 +37,7 @@ Typical features of an Agile process:
 
 ##### Reflect: How does each of the following examples of your best work show evidence of achieving this goal? (e.g. Diode projects, Github repos)
 
-_**_Makersbnb_ - first exposure to agile processes
+_Makersbnb_ - first exposure to agile processes
 - Daily stand ups and retros after sprints - worked in 3 day sprints
 - Talk about how towards the end of the project, things were stressful and the work was not evenly spread out - reflected on this and improved in the next team project
 - Made decision as a team as to which technology we should use to produce this web-app: started with Javascript and collectively decided to switch to Ruby. We did this with a vote!
