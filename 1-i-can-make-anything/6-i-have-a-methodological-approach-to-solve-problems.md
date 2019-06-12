@@ -19,7 +19,7 @@
 
 ##### Reflect: How does each of the following examples of your best work show evidence of achieving this goal? (e.g. Diode projects, Github repos).
 
--[Makersbnb](https://github.com/riyadattani/makersbnb/blob/master/lib/request.rb)
+- [Makersbnb](https://github.com/riyadattani/makersbnb/blob/master/lib/request.rb)
   - At first, modelling how the bookings and requests of spaces listed on a page was difficult. We broke down the requirements into smaller bits and looked at two perspectives:
     - The path if you were a landlord where you listed a space, you confirm or decline requests
     - The path if you were a user and you request a space and have a booking on a certain date
