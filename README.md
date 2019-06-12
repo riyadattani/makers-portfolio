@@ -6,7 +6,7 @@
 - [I can debug anything](1-i-can-make-anything/3-i-can-debug-anything.md)
 - [I can model anything](1-i-can-make-anything/4-i-can-model-anything.md)
 - [I can refactor anything](1-i-can-make-anything/5-i-can-refactor-anything.md)
-- [I have a methodological approach to solving problems](1-i-can-make-anything/6-i-have-a-methodological-approach-to-solving-problems.md)
+- [I have a methodological approach to solving problems](1-i-can-make-anything/6-i-have-a-methodological-approach-to-solve-problems.md)
 
 ### I help my teams succeed
 - [I use an agile product development process](2-i-help-my-teams-succeed/1-i-use-an-agile-product-development-process.md)
