@@ -22,4 +22,6 @@ _Acebook_
 
 ##### What feedback have you had?
 
+_Sam Morgan (Head coach at Makers)_ You explained your process clearly, giving a clear justifcation for why you were going with the plan you'd come up with. You gave a really clear justifcation for not using git as "this is a prototype", which was totally justifed. All the way through, you were informing me about the decisions you would take now, and the decisions you were deferring for later – super-clear and intentional. 
+
 _Michael (Coach)_ said that he liked how Kim and I confirmed our tasks and encouraged us to ask him any questions for clarifications as it is worse to revoke them at a later stage.

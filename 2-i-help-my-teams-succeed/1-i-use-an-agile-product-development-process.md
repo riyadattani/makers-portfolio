@@ -60,6 +60,8 @@ _Raspberry Pi project_(final project)
 
 ##### What feedback have you had?
 
+_Sam Morgan (Head coach at Makers)_ Great job asking for specifications and criteria, especially using an analogy of a dictionary. You asked for specifc examples, which gave us an opportunity to talk about acceptance criteria. 
+
 _Team retro at the end of MakersBnb_ “We lost our agile processes towards the end of the week. Riya and Kim were stuck in the logic and backend work while Arthur and Harry were focusing on the user interface and design of the website. In future projects we reflected that we should switch pairs regularly and knowledge share any knew learnings.”
 
 _Kim on Acebook_ “Our team exemplified and lived out the Agile manifesto - we showed each other respect, we adopted Agile processes and we had fun along the way and learnt loads. Most importantly, we put people and communication over the process, which is at the heart of what Agile was all about. Our focus on people meant we were able to bring out the best in everyone to complete all of our features, as well as bonus features to meet the business acceptance criteria to a professional level.”

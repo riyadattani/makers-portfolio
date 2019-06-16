@@ -39,7 +39,7 @@ The skills / processes to do this:
     - Then I looked at examples of similar tests and what passes the code.
     - I timeboxed implementing a solution before looking at an alternative approach.
     - Once I repeated this approach 3 times, I would take a break or seek help to guide me in the right direction.
-    
+
 
 - Notes app in JS
   - Familiar with the syntax after accomplishing thermostat but worked on more complex concepts in Javascript
@@ -48,6 +48,8 @@ The skills / processes to do this:
   - Implemented [this](https://github.com/riyadattani/note_JS/blob/master/note-list-view-model.js) module pattern
 
 ##### What feedback have you had?
+
+_Sam Morgan (Head coach at Makers)_ You got set-up via the command-line super-quickly. You were using `touch` to set up the required le structure, which was nice. When passing your second test, you introduced a conditional branch. This is de nitely one approach, but I'd argue that although it's "easy", it's more complex a step to introduce a conditional branch to your program (doubling the number of execution paths) than simply returning the given input unchanged. I liked that you played with the program in the REPL to get a picture of how it should function.
 
 _Pairing feedback from Paul Martin_, “I really enjoyed our pairing session yesterday. You were doing most of the typing as we were covering material I was already fairly comfortable with, but you kept up a high level of concentration and engagement over the whole session - impressive when we you were dealing with lots of new concepts! As a result I felt like we’d covered a lot of ground by the end of the afternoon, and we’d got there together.
 

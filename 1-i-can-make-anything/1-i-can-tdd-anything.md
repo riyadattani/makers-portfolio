@@ -40,6 +40,8 @@
 
 ##### What feedback have you had?
 
+_Same Morgan (Head Coach at Makers)_, You used your TDD setup to set up required les in a great small-step process, continually backed by a clear feedback loop. You were clear about what you hypothesised to happen – "this is a good test to check it's all linked together" – before validating with a running spec. Your rst test checked that the spellchecker would check a single word, returning the word unchanged: a good rst test ('naive implementation') to get some more structure of the application (in this case, a method) up and running. You then ran your tests frequently to check that you were "on track". You then hard-coded the initial response, "sliming" the answer. You used a second test to check that the code was appropriately dynamic. (If you had wanted to, you could have put a second expectation into your rst test instead.)
+
 _Steven during a process workshop_, “You have a good TDD process. You started off with the easiest test and passed it in the most simplest way. Once you started developing the program, you changed your method appropriately. You followed the RED-GREEN-REFACTOR method very well.”
 
 _Sophie (Coach) during observation_, “You have a good process: you drew a plan/model that seemed good enough to start with, you wrote a simple test and proved you were following TDD. I would ask more questions on how the command line app would work and avoid using puts and gets as it constricts your app from growing.”

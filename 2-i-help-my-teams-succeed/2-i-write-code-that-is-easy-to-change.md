@@ -35,4 +35,6 @@
 
 ##### What feedback have you had?
 
+_Sam Morgan (Head coach at Makers)_ You carefully-factored your code as you went, indenting correctly and choosing good variable names. Your code was clear and concise, and seemingly easy to change as a result.
+
 _Tome when reviewing RPS challenge,_ ‘You have well named routes, classes and methods. The code and tests are easy to read and I think I could edit them if needed to. You clearly have a good handle on MVC and single responsibility principle.’

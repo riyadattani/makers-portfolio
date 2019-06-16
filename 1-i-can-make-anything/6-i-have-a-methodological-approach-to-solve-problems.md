@@ -36,4 +36,6 @@
 
 ##### What feedback have you had?
 
+_Sam Morgan (Head Coach at Makers)_ You laid out a plan for now, and a plan for later. This was a good example of being methodical in deferring problems for later (like the dictionary). You decided to start not with a sentence, but with a word: "I think it's good to start with a word, and later go on to a sentence". This was a good methodical approach. 
+
 _Kim on MakersBnb_ when solving the problem explained above: “You are a focused individual and once you got into solving a problem, you had the grit and determination to continue. I really admire that. At first, you were using the walkthroughs, but once you got out of this zone, your mindset was more experimental which helped you to solve problems creatively. ”

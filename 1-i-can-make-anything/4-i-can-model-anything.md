@@ -31,6 +31,8 @@
 
 ##### What feedback have you had?
 
+_Sam Morgan (Head coach at Makers)_ You used an input/output diagram on paper to capture a picture of the different inputs and outputs of the program. You said that later on, we'd expect to use a real-life dictionary to check words against. You decided on a simple, single-class app called 'Spellchecker'. You reinforced this decision – "there's no point in branching out to a different class right away" – and I think that was a good call to make. 
+
 _Kim on Makersbnb project_, “When we had the stand up, you explained your thoughts clearly using the whiteboard and were able to sketch out diagrams which helped the team understand the bigger picture of your thought process. I liked the fact that you can model out the domain confidently.”
 
 _Kim on Acebook project_, “Riya was confident at communicating her logic to the rest of the team. She demonstrated a strong ability to diagram features out during our morning scrums. Her ability to latch onto new logic and consider the pros and cons was awesome. In particular, her suggestion of where functionality would sit in the user flow showed her consideration for what the user would experience which was fundamental to keeping the product relevant to the end-user.”
